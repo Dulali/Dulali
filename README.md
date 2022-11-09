@@ -1,5 +1,5 @@
-#Hello!👋
-##I'm Fatama Dulali. A passionate backend and Frontend developer from Bangladesh.
+# Hello!👋
+## I'm Fatama Dulali. A passionate backend and Frontend developer from Bangladesh.
 
 <!--
 **Dulali/Dulali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
