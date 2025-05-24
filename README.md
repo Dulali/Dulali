@@ -1,4 +1,4 @@
-![A passionate backend developer from Bangladesh](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/314400404_2640997429371234_5673682542612545441_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGx7lWwe4h8XCzwUNhH_udQuz_loT4ajTi7P-WhPhqNODstW7HjnoR1zYmqHKWgRNVM73cudQwJn19mbi3Smh66&_nc_ohc=cwdWQcOv4Z4AX-vaqjA&_nc_oc=AQmYECmBKHjLuQ-6VWGb2w96xuOQ__4Nw8PYaw6x-fnY3ekya5ecVgczUasCe9M1G3c&_nc_ht=scontent.fdac5-2.fna&oh=00_AfAO2XzLFHirOzl7f5FNhVKH0rgZdw0mcRxK-ODXnbEHrg&oe=63712B81)
+![A passionate backend developer from Bangladesh]
 
 
 ### Hi there 👋, I'm Fatama
